@@ -80,7 +80,7 @@ Custom app shortcuts
 
 Cross-platform support (macOS / Linux)
 
-⭐ If you like this project, give it a star — it helps a lot!
+
 
 
 ⭐ If you like this project, give it a star — it helps a lot!
