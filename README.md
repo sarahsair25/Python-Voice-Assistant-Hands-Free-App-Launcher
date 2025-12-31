@@ -1,8 +1,8 @@
-# Python-Voice-Assistant-Hands-Free-App-Launcher
-A voice-controlled assistant built in Python that listens to natural speech commands and instantly opens websites or system applications — no keyboard needed
 
 <img width="1536" height="1024" alt="Assistant" src="https://github.com/user-attachments/assets/be533c4f-fcc8-4902-8aad-6ab1b6239e9c" />
 
+# Python-Voice-Assistant-Hands-Free-App-Launcher
+A voice-controlled assistant built in Python that listens to natural speech commands and instantly opens websites or system applications — no keyboard needed
 Just say:
 
 🗣️ “Open Google”
